@@ -1,6 +1,6 @@
 # SQLite Demo
 
-This project represents an example of usage of the [sqllite](https://www.sqlite.org/index.html) Python library.
+This project represents an example of usage of the [sqlite](https://www.sqlite.org/index.html) Python library.
 
 ## Assignment steps
 * As done in the first assignment, clone this repo in the "GitClass" folder ("C:\Users\\%yourUsername%\Visual Studio Code\GitClass"); you should then have a new project folder in the "GitClass" folder dedicated to this project
