@@ -1,4 +1,4 @@
-# porini-aicc-sqlite-demo
+# SQLite Demo
 
 This project represents an example of usage of the [sqllite](https://www.sqlite.org/index.html) Python library.
 
