@@ -1,0 +1,4 @@
+__pycache__/*
+*.py[cod]
+
+projects&tasks_db.db
